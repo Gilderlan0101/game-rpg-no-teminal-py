@@ -6,7 +6,7 @@ Funcionalidades
 
     Sistema de combate por turnos.
     Gerenciamento de inventário.
-    Exploração de mapas.
+   
 
 Requisitos
 
